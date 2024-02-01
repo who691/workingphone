@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510634313662",
+    "project_id": "tryphoneapp",
+    "storage_bucket": "tryphoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510634313662:android:a5b38ee4f21d2f677edbef",
+        "android_client_info": {
+          "package_name": "com.abela2121.tryphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_LlEByVenhrCBYe2_GxhddQJF_OAUVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
